@@ -16,4 +16,8 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Yandex - https://www.yandex.ru/images/search?img_url=https%3A%2F%2Ftelegra.ph%2Ffile%2F5c5266cd14de282f81168.png&lr=10877&pos=2&rpt=simage&source=serp&stype=image&text=%D0%BB%D0%BE%D0%B3%D0%BE%20git, license: [CC BY 3.0](https://creativecommons.org/license/by/3.0/) 
+###### GIT logo by Yandex - https://www.yandex.ru/images/search?img_url=https%3A%2F%2Ftelegra.ph%2Ffile%2F5c5266cd14de282f81168.png&lr=10877&pos=2&rpt=simage&source=serp&stype=image&text=%D0%BB%D0%BE%D0%B3%D0%BE%20git, 
+---
+#### license: [CC BY 3.0](https://creativecommons.org/license/by/3.0/) 
+---
+---
