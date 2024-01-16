@@ -10,6 +10,9 @@ LICENSE: [MIT](./license.md)
    +  1.2 [Команда - "git init"](./init.md)
    +  1.3 [Команда- "git add"](./add.md)
    +  1.4 [Команда - "git commit"](./commit.md)
+   +  1.5 [Команда - "git push"](./push.md)
+   +  1.6 [Команда - "git diff"](./diff.md)
+   +  1.7 [Команда - "git log"](./gitlog.md)
 ---
 
 ###### GIT logo by Yandex - https://www.yandex.ru/images/search?img_url=https%3A%2F%2Ftelegra.ph%2Ffile%2F5c5266cd14de282f81168.png&lr=10877&pos=2&rpt=simage&source=serp&stype=image&text=%D0%BB%D0%BE%D0%B3%D0%BE%20git, 
