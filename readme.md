@@ -6,14 +6,10 @@ LICENSE: [MIT](./license.md)
 ---
 ## Содержание:
 ### 1.  **Основные команды GIT:**
-   + 1.1 [Создание имя пользователя и почты.](./config.md) 
-   + 1.2 [Кэширование учётных данных.](./cash.md)
-   + 1.3 [Инициализация репозитория.](./init.md)
-   + 1.4 [Добавление отдельных файлов или всех файлов в область подготовленных файлов](./add.md)
-   + 1.5 [Проверка статуса репозитория](./status.md)
-   + 1.6 [Внесение изменений однострочным сообщением или через редактор](./commit.md)
-   + 1.7 [Просмотр истории коммитов с изменениями](./log.md)
-
+   +  1.1 [Команда - "git clone"](./clone.md)
+   +  1.2 [Команда - "git init"](./init.md)
+   +  1.3 [Команда- "git add"](./add.md)
+   +  1.4 [Команда - "git commit"]()
 ---
 
 ###### GIT logo by Yandex - https://www.yandex.ru/images/search?img_url=https%3A%2F%2Ftelegra.ph%2Ffile%2F5c5266cd14de282f81168.png&lr=10877&pos=2&rpt=simage&source=serp&stype=image&text=%D0%BB%D0%BE%D0%B3%D0%BE%20git, 
