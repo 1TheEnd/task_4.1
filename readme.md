@@ -8,7 +8,7 @@
 ### 1.  **Основные команды GIT:**
    +  1.1 [Команда - git clone](./clone.md)
    +  1.2 [Команда - git init](./init.md)
-   +  1.3 [Команда- git add](./add.md)
+   +  1.3 [Команда - git add](./add.md)
    +  1.4 [Команда - git commit](./commit.md)
    +  1.5 [Команда - git push](./push.md)
    +  1.6 [Команда - git diff](./diff.md)
@@ -16,6 +16,10 @@
    +  1.8 [Команда - git checkout](./checkout.md)
    +  1.9 [Команда - git branch](./branch.md)
    +  2.0 [Команда - git fetch](./fetch.md)
+   +  2.1 [Команда - git pull](./pull.md)
+   +  2.2 [Команда - git merge](./merge.md)
+   +  2.3 [Команда - git rebase](./rebase.md)
+   +  2.4 [Команда - git revent](./revent.md)
 
 ---
 
